@@ -61,7 +61,7 @@ body {
 .wrap-effect-1 {
   .item {
     &:first-of-type {
-      background-image: url('https://cdn.dribbble.com/users/729829/screenshots/4185141/galshir-cactus-coffee.png');
+      background-image: url('http://delishar.com/wp-content/uploads/2016/05/30-mins-bread-roll-1.jpg');
     }
     &:nth-of-type(2) {
       background-image: url('https://cdn.dribbble.com/users/729829/screenshots/6146136/galshir-tea-biscuit_2x.png');
